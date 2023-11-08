@@ -1,0 +1,15 @@
+{
+    "name": "macbook/maison-des-ligues-facturation",
+    "autoload": {
+        "psr-4": {
+            "Macbook\\MaisonDesLiguesFacturation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mel.R",
+            "email": "mel.redureau@gmail.com"
+        }
+    ],
+    "require": {}
+}
